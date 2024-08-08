@@ -1,15 +1,19 @@
-### Hi! 〰
+### Hey! 〰
 
-I have been working with web technologies for 10+ years 💻,  
-solving problems with apps that are a delight to use ☁.  
+Call me Mikołaj or Nick.
+
+About me:
+- 10 years of experience as a full-stack developer, 
+- passion for designing digital services in close collaboration with business, product, analytical, and UX teams, 
+- knowledge of various technologies.
 
 Based in Poland ⚓.  
 Open for anyone, anywhere 🌐.
 
-### My favourite things
+### Main Technologies
 In random order:  
-JS + TypeScript,  
-Angular,
-PHP,  
-Symfony,  
-React.
+- JS + TypeScript,  
+- Angular,
+- PHP,  
+- Symfony,  
+- React.
